@@ -5,5 +5,5 @@ An agent skill that turns incoming invoices into USDT payment proposals on a [Tr
 ## Installation
 
 ```bash
-npx skills add denbite/trezu-skils
+npx skills add denbite/trezu-skills
 ```
